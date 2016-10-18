@@ -1,0 +1,12 @@
+{
+  "name": "issue",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "fable-core": "^0.7.5-alpha.2"
+  },
+  "devDependencies": {
+    "fable-compiler": "^0.7.5-alpha.5",
+    "babel-plugin-transform-runtime": "^6.15.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "projFile": "./Issue.fsproj",
+  "outDir": "out",
+  "babelPlugins": [ "transform-runtime" ],
+  "bundle": true
+}
